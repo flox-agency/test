@@ -5,5 +5,10 @@ On fait aller...
 Nous sommes samedi aujourd'hui.
 Go aller
 TEST EDIT
+<<<<<<< HEAD
 EDIT FILE
 modification
+=======
+
+EDIT FILE
+>>>>>>> 96e3837b383a446773cbdae310b94bd6ddfc38a4
